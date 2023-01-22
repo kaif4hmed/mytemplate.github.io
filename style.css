@@ -1,0 +1,64 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Amita', cursive;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+    gap: 60px;
+    list-style-type: none;
+    align-items: center;
+}
+
+.navigation {
+    display: flex;
+    align-items: center;
+}
+
+.header {
+    padding: 10px;
+    background: #f0e9e9;
+}
+
+button {
+    padding: 12px 25px 12px 25px;
+    border-radius: 200px 0px 200px 0px;
+    color: #fff;
+    background: red;
+    border: none;
+}
+
+img {
+    width: 100%;
+}
+
+.footer {
+    padding-top: 36px;
+    padding-bottom: 36px;
+    background: #f0e9e9;
+    display: flex;
+    justify-content: center;
+}
+
+.footer {
+    padding-top: 36px;
+    padding-bottom: 36px;
+    background: #f0e9e9;
+    display: flex;
+    justify-content: center;
+}
+
+span {
+    color: #eb07c7;
+    font-size: 19px;
+}
+.hero-section{
+    background-image: url("/assets/images/bg\ image\ robert&sem.jpg");
+    background-size: cover;
+    width: 100%;
+    min-height: 700px;
+    height: fit-content;
+}
